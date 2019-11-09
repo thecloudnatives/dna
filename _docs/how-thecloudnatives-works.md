@@ -1,6 +1,6 @@
 ---
 title: How Crisp works
-prev_section: what-is-crisp.html
+prev_section: what-is-thecloudnatives.html
 next_section: why-this-works.html
 ---
 
@@ -11,7 +11,7 @@ Our second A3 is called "Crisp strategy" but it's really more about how we opera
 
 ![Crisp Strategy A3](../assets/CrispStrategyA3-sv.jpg "Crisp Strategy A3")
 
-It hangs on the wall next to the [What is Crisp](what-is-crisp.html) A3. Here's an [english translation](../assets/CrispStrategyA3-en.pdf) of the pic. Summarized below:
+It hangs on the wall next to the [What is Crisp](what-is-thecloudnatives.html) A3. Here's an [english translation](../assets/CrispStrategyA3-en.pdf) of the pic. Summarized below:
 
 What do we measure?
 -------------------

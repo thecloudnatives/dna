@@ -13,7 +13,7 @@ Our primary metric is “Nöjd Crispare Index” (in english: “Happy Crisper I
 
 Here's an [example & template](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE), feel free to copy & modify as you see fit.
 
-There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-crisp.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a great overview of what's working and what needs to be fixed.
+There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-thecloudnatives.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a great overview of what's working and what needs to be fixed.
 
 > Jeff Sutherland saw this and got so excited that he wrote an article called [Happiness Metric - the wave of the future](http://www.scruminc.com/happiness-metric-wave-of-future) and now [teaches webinars](http://www.scruminc.com/happiness_metric/) on it and talks about it all over the world. Cool :o)
 
