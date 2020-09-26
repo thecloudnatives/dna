@@ -4,6 +4,12 @@ prev_section: ownership-model.html
 next_section: decisions.html
 ---
 
+FikaWorks is still a small enterprise & has low overhead. As such we are not taking any fixed (or variable) percentage of earnings, nor are we charging a FikaWorks membership fee on a regular basis. We are instead tracking expenses in a [Google Sheet](https://docs.google.com/spreadsheets/d/1nzTYgl6Ywuo3d_B3DIHCf5MwOOzmn_sFCflT_kiEOM8/edit#gid=0) which we settle on an as-needed basis.
+
+> We are also not at a point where we are accepting contracts via FikaWorks (due to red-tape slowing the process down). Once revenue starts to route through the coop this will become more pressing.
+
+---
+
 Economic Model
 ==============
 

@@ -7,6 +7,8 @@ next_section: how-thecloudnatives-works.html
 What is Crisp and why?
 ======================
 
+> FikaWorks has pulled this DNA from Crisp as a source of inspiration. There is a lot of valuable experience & information that has been pulled together over many years by the Crisp company & we want to give each part the thought & consideration it deserves before making any procedural changes. As such you will see that many of these pages still reference Crisp & are written with them in mind. This is intentional & they will be updated to reflect the ways of working of FikaWorks as we come to our own decisions in each of these areas.
+
 Our purpose is summarized in this A3. We refer to this as "our home" or "our house".
 
 ![What is Crisp A3](../assets/WhatIsCrispA3-sv.jpg "What is Crisp A3")

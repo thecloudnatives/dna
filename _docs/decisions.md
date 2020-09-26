@@ -14,16 +14,22 @@ Note – for allocation of consultants to client engagements we have a specific 
 Why don’t we have a well defined decision-making process?
 ---------------------------------------------------------
 
-We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next Crisp unconference? Which partners should we invite?
+We make lots of decisions all the time. Which type of coffee machine to buy? Should we upgrade our GDrive account? Should we upgrade our Slack account?
 
-Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to move our office to a new location.
-
-So it’s not a good idea to have one single well-defined decision process for everything. And it’s not a good idea to try to list all potential decision types and create a well-defined process for each type, the list would be too long and complex, and there would be too many gray zones.
+We are striving to run a lean operation & keep overheads to a minimum. So we want to forgo as much as possible long-term financial commitments (such as office-space or expensive software licenses).
 
 Well, how do we make decisions then?
 ------------------------------------
 
+We have two processes. The first is for cheap purchases which won't have a large financial impact, web hosting, buying assets for a presentation or maintaining the domain name.
+
+For any purchases over a certain amount though, or which require a commitment of assets or a binding contract follow a different procedure outlined below.
+
+We post a question on our internal members channel about a service or item that we think would benefit the coop as a whole, we discuss the value of the proposal, and if we are happy with the proposal it is accepted & we move forward with acquiring it. For bigger decisions we may ask for a document to be written up where we can keep track of the costs & benefits of the purchase over time.
+
 You don’t need a well-defined decision process in order to make decisions. If that was the case, the world would stand still :)
+
+Ultimately we trust our fellow members to make sensible decisions & to lead any decisions that they propose.
 
 Instead, we follow these principles/guidelines:
 
