@@ -15,23 +15,15 @@ we strongly believe on their ideas and principles so we made a copy and
 adjusted it to our needs.
 
 [theCloudNatives](https://thecloudnatives) is an independent collective of
-cloud native consultants based in the Netherlands. For example:
+cloud native consultants based in the Netherlands. 
 
-- Consultants are 100% autonomous. They can do whatever they want (as long as
-- None of the consultants are actually employed by {{ site.company_name }}
-- Our [ownership model](ownership-model.html) is designed to keep our stock
-- We have no managers, not even a CEO. Instead we rely on self-organization
-- theCloudNatives doesn't want to earn money from it's consultants. It is in
-- theCloudNatives main purpose is to enable consultants to be happy, and
-[Crisp Happiness Index](happiness-index.html) is our driving metric. Strong
-and transparency. Almost everything is bottom-up, and [anyone can drive any
-decision](decisions.html).
-financially worthless. There is no incentive to "cash in".
-most of what they earn](economic-model.html).
-practice a non-profit company (although not formally so). Consultants [keep
-revenue and delighted customers are a side effect, not a goal.
-they don't hurt the brand or [our house](what-is-thecloudnatives.html)), and
-work as much or as little as they want.
+- Consultants are 100% autonomous. None of the consultants are actually employed by {{ site.company_name }}
+- We have no managers, or a CEO. Instead we rely on self-organization
+- FikaWorks doesn't want to earn money from it's consultants. It is in FikaWorks main purpose is have a strong and diverse group of people.
+- We target projects that require at least 2 members of the collective.
+- Every project we take will benefit from the support and knowledge base of the entire collective.
+- Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
+- Consultants keep revenue and delighted customers are a side effect, not a goal. They don't hurt the brand or [our house](what-is-fikaworks.html), and work as much or as little as they want.
 
 Contents
 ========
@@ -47,18 +39,16 @@ company
 some driving principles.
 - [Why this works](why-this-works.html) - why this model has served us so well
 
-Core structure and practices
+Core structure and practices (Work In Progress)
 ----------------------------
 
 (although these are core to our model, they are mostly just consequences of the
 principles above)
 
-- [Happiness index](happiness-index.html) - how do we know if we are
+- [WIP - Happiness index](happiness-index.html) - how do we know if we are
 succeeding?
-- [Ownership model](ownership-model.html) - how do people become owners, and
-what ownership actually means?
-- [Economic model](economic-model.html) - how does money flow through the
-system?
+- [WIP - Ownership model](ownership-model.html) - how do people become owners, and what ownership actually means?
+- [WIP - Economic model](economic-model.html) - how does money flow through the  system?
 - [How we make decisions](decisions.html) - how do decisions get made when
 there is no manager?
 - [Recruiting](recruiting.html) - how do new people get in?
@@ -69,16 +59,15 @@ route to the right consultant?
 - [Dashboard](dashboard.html) - how do we see the big picture?
 - [Office team](office-team.html) - how do we handle admin and day-to-day
 operations?
-- [Board of directors](board.html) - Swedish law requires that we have a BoD.
+- [WIP - Board of directors](board.html) - Swedish law requires that we have a BoD.
 So how does the BoD at Crisp work?
 - [Our business](our-business.html) - what type of work we do
-- [Visions](visions.html) - How do you get a bunch of autonomous consultants to
-agree on a vision? Answer: have several :o)
+- [Visions](visions.html) - How do you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 - [Sales](sales.html) - how do we actually sell consultants?
-- [Crisp unconference](unconference.html) - how our bi-annual unconference
+- [WIP - How we learn](unconference.html) - how our bi-annual unconference
 works
 
-Supporting practices
+Supporting practices (Work in Progress)
 --------------------
 
 (relevant stuff, but not core to our model)

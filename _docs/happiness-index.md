@@ -9,7 +9,7 @@ Happiness Index
 
 Our primary metric is “Nöjd Crispare Index” (in english: “Happy Crisper Index” or “Crisp Happiness Index”). It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our [dashboard](dashboard.html) (a shared Google spreadsheet).
 
-![Happiness History](../assets/HappinessIndex.png "Happiness History"):https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
+![Happiness History](../assets/HappinessIndex.png "Happiness History"):https://docs.google.com/spreadsheets/d/1eKIYmj3EEjZSJ2-hdijMtCPLGUXffxleMSaYErr0nLo/edit#gid=2
 
 Here's an [example & template](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE), feel free to copy & modify as you see fit.
 
@@ -22,9 +22,9 @@ Survey questions
 
 The 3 main questions in the survey are:
 
--   **How happy are you with being at Crisp**? This is the main overarching happiness index.
--   **How happy are you with your tasks in Crisp**? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site. This is especially relevant for our [office team](office-team.html), who do most internal work and have no external clients of their own.
--   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be really happy with Crisp, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
+-   **How happy are you with being at FikaWorks**? This is the main overarching happiness index.
+-   **How happy are you with your tasks in FikaWorks**? This means internal work such as board meetings, conference facilitation, or creating this FikaWorks DNA site. This is especially relevant for our [office team](office-team.html), who do most internal work and have no external clients of their own.
+-   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be really happy with FikaWorks, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
 
 The scale is:
 
@@ -53,6 +53,8 @@ It's very interesting to read what people write!
 How we use the happiness data
 -----------------------------
 
+> FikaWorks is not currently using this data. We are using it as a way to check up on our colleagues to make sure everyone's feelings are acknowledged.
+
 The happiness index is used as key artifact during [board meetings](board.html), and we also print it out and bring to our [bi-annual unconference](unconference.html).
 
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company.
@@ -64,10 +66,10 @@ Crisp Happiness Index is more important than any financial metric, not only beca
 Happiness history
 -----------------
 
-We use a separate [history worksheet](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE#gid=3) to show how the average happiness changes over time, and how it correlates to specific events. We update the history manually - from time to time someone simply copies the average happiness values and adds to the history table, and the history chart gets updated.
+We use a separate __history subsheet_ to show how the average happiness changes over time, and how it correlates to specific events. We update the history manually - from time to time someone simply copies the average happiness values and adds to the history table, and the history chart gets updated.
 
-Here's our actual happiness history 2008-2014:
+Here's an example of Crisp's actual happiness history 2008-2014:
 
 ![Happiness History](../assets/HappinessHistory.png "Happiness History")
 
-Very useful to spot trends! We're usually around 4, our all-time low is 2.7 (a temporary dip in early 2010 when we had a bad conflict), and our all-time high is 4.3 (late 2014)
+We hope this will help us to spot trends & resolve issues as and when they come up.

@@ -7,6 +7,10 @@ next_section: economic-model.html
 Ownership model
 ===============
 
+<!-- TODO: refactor & clean this up to represent FikaWorks -->
+
+> Currently FikaWorks only has the 4 founding members. We do not want to have any financial incentives to being an owner (ie. holding stock in the company). Currently there is no official path for becoming a co-owner of the company, we are likely to follow this same model.
+
 Crisp is a Swedish [aktiebolag](http://sv.wikipedia.org/wiki/Aktiebolag) (comparable to an English limited company). This means there are shares, and someone has to own them.
 
 So who owns Crisp, how are new owners brought in, and what does ownership mean?
