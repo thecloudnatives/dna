@@ -19,7 +19,7 @@ cloud native consultants based in the Netherlands.
 
 - Consultants are 100% autonomous. None of the consultants are actually employed by {{ site.company_name }}
 - We have no managers, or a CEO. Instead we rely on self-organization
-- theCloudNatives doesn't want to earn money from it's consultants. It is in theCloudNatives main purpose is have a strong and diverse group of people.
+- FikaWorks doesn't want to earn money from it's consultants. It is in FikaWorks main purpose is have a strong and diverse group of people.
 - We target projects that require at least 2 persons from the collective.
 - Every project we take will benefit from the support and knowledge base of the entire collective.
 - Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
