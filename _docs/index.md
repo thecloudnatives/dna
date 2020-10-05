@@ -23,7 +23,7 @@ cloud native consultants based in the Netherlands.
 - We target projects that require at least 2 members of the collective.
 - Every project we take will benefit from the support and knowledge base of the entire collective.
 - Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
-- Consultants keep revenue and delighted customers are a side effect, not a goal. They don't hurt the brand or [our house](what-is-thecloudnatives.html), and work as much or as little as they want.
+- Consultants keep revenue and delighted customers are a side effect, not a goal. They don't hurt the brand or [our house](what-is-fikaworks.html), and work as much or as little as they want.
 
 Contents
 ========
