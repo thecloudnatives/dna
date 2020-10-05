@@ -1,7 +1,7 @@
 ---
 title: "What is FikaWorks?"
 prev_section: index.html
-next_section: how-thecloudnatives-works.html
+next_section: how-fikaworks-works.html
 ---
 
 What is FikaWorks and why?
@@ -18,4 +18,3 @@ What is FikaWorks and why?
 We believe these values lead to personal happiness as well as business success.
 
 Basically, we're trying to find the magic balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
-
