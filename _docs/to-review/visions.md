@@ -7,7 +7,7 @@ next_section: sales.html
 Visions
 =======
 
-One big aha in our evolution was when we [realized](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a [nice home for consultants](what-is-thecloudnatives.html).
+One big aha in our evolution was when we [realized](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a [nice home for consultants](what-is-FikaWorks-Collective.html).
 
 However, many of the *people* at Crisp do have a vision. Here are the most widely shared visions:
 
@@ -40,7 +40,7 @@ It was a standing vote, where people could move their avatars to show their stan
 Two more principles:
 
 -   It's OK to move your avatar up and down even between conferences (the poster is on the wall in our office). But that will be considered input to the next conference, no decision will be made directly.
--   We bring this poster to our conferences, so we keep iterating on it (just like our two A3s [What is Crisp](what-is-thecloudnatives.html) and [How we work](how-thecloudnatives-works.html)).
+-   We bring this poster to our conferences, so we keep iterating on it (just like our two A3s [What is Crisp](what-is-FikaWorks-Collective.html) and [How we work](how-FikaWorks-Collective-works.html)).
 
 Does everyone have to agree with these visions?
 -----------------------------------------------

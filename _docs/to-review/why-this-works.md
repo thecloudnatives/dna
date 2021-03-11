@@ -1,7 +1,7 @@
 ---
 title: Why this works well for us
 
-prev_section: how-thecloudnatives-works.html
+prev_section: how-FikaWorks-Collective-works.html
 next_section: happiness-index.html
 ---
 

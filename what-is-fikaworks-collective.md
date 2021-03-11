@@ -17,4 +17,4 @@ What is FikaWorks and why?
 
 We believe these values lead to personal happiness as well as business success.
 
-Basically, we're trying to find the magic balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
+We're working towards finding the balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
