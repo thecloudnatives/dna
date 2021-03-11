@@ -1,26 +1,11 @@
-theCloudNatives DNA
-===================
+# FikaWorks Collective DNA
+(this repository is under refactoring)
 
-> theCloudNatives DNA is a fork of the [Crisp DNA][crisp-dna] repository.
-Similar to the Crips DNA, it describes how theCloudNatives collective works and
-why. The source lives on github and is auto-published on
-[dna.thecloudnatives.com][thecloudnatives-dna] every time a change is pushed.
+
+[Fikaworks DNA][fikaworks-dna] is a fork (a copy) of the [Crisp DNA][crisp-dna] repository. This means the same license applies to this repository: [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). You are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to this/Crisp repository, and keep the license (so that others can fork off of your ingenious changes).
+
+Similar to the Crips DNA, it describes our way of working, and it is all open. 
+The Crisp DNA is licensed under  This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort! 
 
 [crisp-dna]: https://github.com/crispab/crisp-dna
-[thecloudnatives-dna]: http://dna.thecloudnatives.com
-
-## Getting started
-
-Use Docker to run the DNA locally. The website will be served at the following
-address: [https://localhost:4000](https://localhost:4000).
-
-```bash
-$ docker run --rm \
-    -p 4000:4000 \
-    --volume="$PWD:/srv/jekyll" \
-    -it jekyll/jekyll:3.8 \
-      jekyll serve
-```
-
-There is an auto-reload feature that automatically refresh the website when
-change are made.
+[fikaworks-dna]: https://github.com/FikaWorks/dna

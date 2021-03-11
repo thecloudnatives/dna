@@ -42,7 +42,7 @@ Once you've cloned the dna, it's no longer the Crisp model, it's your model! Cri
 But wait, there's ALOT of content here!
 ---------------------------------------
 
-No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarized in [What is Crisp](what-is-thecloudnatives.html) and [How Crisp works](how-thecloudnatives-works.html), so you might decide to just keep those two (but with your company name).
+No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarized in [What is Crisp](what-is-FikaWorks-Collective.html) and [How Crisp works](how-FikaWorks-Collective-works.html), so you might decide to just keep those two (but with your company name).
 
 Another option is to skip the techie stuff (cloning and forking), and just steal the bits you like anyway.
 

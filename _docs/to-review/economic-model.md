@@ -13,7 +13,7 @@ FikaWorks is still a small enterprise & has low overhead. As such we are not tak
 Economic Model
 ==============
 
-The high level economic model is summarized in [How Crisp Works](how-thecloudnatives-works.html). Here are some concrete examples to make it more clear.
+The high level economic model is summarized in [How Crisp Works](how-FikaWorks-Collective-works.html). Here are some concrete examples to make it more clear.
 
 Example: One month
 ------------------
@@ -64,7 +64,7 @@ Example: adjusting the fees
 
 At the end of the fiscal year, the [board](board.html) notices that Crisp is accumulating too much money (we want to maintain a limited liquidity buffer and not build up piles of cash), so they lower the fee to 9% + €400/month, and lower the ceiling to €18,000/year. Yay!
 
-Check [how Crisp works](how-thecloudnatives-works.html) if you are curious about why we don't want Crisp to earn a big profit.
+Check [how Crisp works](how-FikaWorks-Collective-works.html) if you are curious about why we don't want Crisp to earn a big profit.
 
 What about taxes and VAT?
 -------------------------
@@ -89,7 +89,7 @@ As a result, our discussions always end up with people divided into two camps:
 -   **Yes**: "An insurance will increase my freedom and security, because Crisp will help me if I run into temporary cash flow problems."
 -   **No**: "An insurance will decrease my freedom and security, because of the increased fees. I manage risk fine today by saving cash and minimizing unnecessary expenses."
 
-This is where our [explicitly stated core values](what-is-thecloudnatives.html) come into use. Freedom is a core value, financial stability isn't. That doesn't mean financial stability isn't important, it just means that people came to Crisp primarily for freedom, and that includes the freedom to choose your own risk-management approach.
+This is where our [explicitly stated core values](what-is-FikaWorks-Collective.html) come into use. Freedom is a core value, financial stability isn't. That doesn't mean financial stability isn't important, it just means that people came to Crisp primarily for freedom, and that includes the freedom to choose your own risk-management approach.
 
 This reasoning always leads us to the same conclusion:
 

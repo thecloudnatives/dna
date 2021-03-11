@@ -30,7 +30,7 @@ So, every year around October (or is it November? ;-) we send an invite to all n
 What does ownership cost?
 -------------------------
 
-We strive to minimize the financial value of the company. Yes, you heard it right. I know, that's like the opposite of what other companies do. But remember, the purpose of Crisp is not to enrich it's owners. The purpose is to [help consultants be happy](what-is-thecloudnatives.html).
+We strive to minimize the financial value of the company. Yes, you heard it right. I know, that's like the opposite of what other companies do. But remember, the purpose of Crisp is not to enrich it's owners. The purpose is to [help consultants be happy](what-is-FikaWorks-Collective.html).
 
 > We've all seen consulting companies that work like pyramid schemes - where old-timers are like fat cats parasiting from the hard work of newcomers. That's exactly what we **don't** want to be.</rant>
 

@@ -1,20 +1,20 @@
 ---
-title: theCloudNatives DNA
-next_section: what-is-thecloudnatives.html
+title: FikaWorks-Collective DNA
+next_section: what-is-FikaWorks-Collective.html
 ---
 
-What is this?
+WIP - What is this?
 =============
 
 This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site
-describing how theCloudNatives works and why.
+describing how FikaWorks-Collective works and why.
 
 This website is a fork of
 [https://github.com/crispab/crisp-dna](https://github.com/crispab/crisp-dna)
 we strongly believe on their ideas and principles so we made a copy and
 adjusted it to our needs.
 
-[theCloudNatives](https://thecloudnatives) is an independent collective of
+[FikaWorks-Collective](https://FikaWorks-Collective) is an independent collective of
 cloud native consultants based in the Netherlands. 
 
 - Consultants are 100% autonomous. None of the consultants are actually employed by {{ site.company_name }}
@@ -31,11 +31,11 @@ Contents
 Driving principles
 ------------------
 
-(these principles drive almost everything at theCloudNatives)
+(these principles drive almost everything at FikaWorks-Collective)
 
-- [What is theCloudNatives](what-is-thecloudnatives.html) - the purpose of the
+- [What is FikaWorks-Collective](what-is-FikaWorks-Collective.html) - the purpose of the
 company
-- [How theCloudNatives works](how-thecloudnatives-works.html) - summary of our model, and
+- [How FikaWorks-Collective works](how-FikaWorks-Collective-works.html) - summary of our model, and
 some driving principles.
 - [Why this works](why-this-works.html) - why this model has served us so well
 
