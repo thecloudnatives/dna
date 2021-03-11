@@ -5,8 +5,8 @@ Currently there are 4 (founding) members: Jason, Catalin, Etienne and Hamish
 Our broader community consist of all the people present on Slack (~30 memebers).
 ## New community members (slack)
 
-- Every Slack/community member can propose new joiners for slack (there are no strings attached for joining our Slack)
-- Board members will send invites (we'll upgarde to premium soon)
+- Every Slack/community member can propose new joiners for Slack (there are no strings attached)
+- Board members will send invites (we'll upgrade to premium soon)
 - Slack/community members will have access to all public channels and they decide if they wanna become full members
 ## Full members responsabilities and guiding principles
 
