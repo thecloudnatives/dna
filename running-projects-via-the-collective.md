@@ -5,7 +5,7 @@
 - There will be an contract between client and fikaworks BV and a different contract between the fikaworks BV and the external contractors
 
 ## Distributing projects
-- Jobs will go first to the collective members and then will be shared with the broader slack community 
+- Jobs will go first to the collective members and then will be shared with the broader slack community (called here contractors)
 
 ## Project Financials
 
@@ -17,4 +17,4 @@
 - Exception for accepting lower rates to be discussed in the collective
 
 ## Dropping projects procedure
-- Exit clause (from members/contarctors) should to match client contract
+- Exit clause (from members/contractors) should to match client contract
