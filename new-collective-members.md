@@ -2,12 +2,14 @@
 
 Currently there are 4 (founding) members: Jason, Catalin, Etienne and Hamish
 
-Our broader community consist of all the people present on Slack (~30 memebers).
+Our broader community consist of all the people present on Slack (~30 members).
+
 ## New community members (slack)
 
 - Every Slack/community member can propose new joiners for Slack (there are no strings attached)
 - Board members will send invites (we'll upgrade to premium soon)
 - Slack/community members will have access to all public channels and they decide if they wanna become full members
+
 ## Full members responsabilities and guiding principles
 
 - Every member must have their own BV (will be double checked with our accountant)
@@ -20,10 +22,10 @@ Our broader community consist of all the people present on Slack (~30 memebers).
 - Semi annual meetings will determine what to do with surplus funds.
 - New coop-wide expenses should be approved unanimously by the team
 - Shared expenses for a subset of members may be put through the coop
-- Expulsion from the coop should be approved by all other members (there should be a serious reason for doing this. E.g. a violation of the code of conduct - WIP ).
+- Expulsion from the coop should be approved by all other members (there should be a serious reason for doing this. E.g. a violation of the code of conduct - WIP)
 - A minimum agreed rate should be applied for all projects related to the coop and can be reviewed during any board meeting (exceptions need to be discussed before agreeing on a lower rate)
 - Board meetings should be held at least twice per year, members are expected to attend at least one every year. 
-- Board  meetings can be organized as part of team outings/team-buildings.
+- Board meetings can be organized as part of team outings/team-buildings.
 - Members can quit the collective whenever they want but we expect a professional finish/handover of their projects (if any) and a notification of exit towards the members (email/slack).
 
 ## During incubation new members must:
