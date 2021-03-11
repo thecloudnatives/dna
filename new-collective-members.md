@@ -37,5 +37,5 @@ Our broader community consist of all the people present on Slack (~30 memebers).
 
 - There are no costs for joining our slack community, the costs are only for full members
 - The current entrance fee for joining the collective as a member is 300 euro
+- Quarterly contribution (currently it is 50 euro but this will fluctuate as we'll have more shared costs E.g. design, paid services and software).
 - There is no exit fee, but members sould have no debt towards the collective ( E.g. quarterly payments)
-- Quarterly contribution (currently it is 50 euro)
