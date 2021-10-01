@@ -1,18 +1,18 @@
 # Fikaworks has members and a more broader community
 
-Currently there are 4 (founding) members: Jason, Catalin, Etienne and Hamish
+Currently there are 4 (founding/board) members: Jason, Catalin, Etienne and Hamish
 
-Our broader community consist of all the people present on Slack (~30 members).
+Our broader community consist of all the people present on Slack (~40 members).
 
 ## New community members (slack)
 
 - Every Slack/community member can propose new joiners for Slack (there are no strings attached)
-- Board members will send invites (we'll upgrade to premium soon)
+- Board members will send invites
 - Slack/community members will have access to all public channels and they decide if they wanna become full members
 
 ## Full members responsabilities and guiding principles
 
-- Every member must have their own BV (will be double checked with our accountant)
+- Every member must have their own limited liability company (like a B.V. in NL, SRL in Romania, etc.)
 - New members can join the collective after an incubation period of at least 6 months and after unanimous approval from current members
 - A collective member can recommend new members for incubation
 - Every member gets equal voting rights (after finishing the incubation period)
