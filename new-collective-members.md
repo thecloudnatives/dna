@@ -1,8 +1,8 @@
 # Fikaworks has members and a more broader community
 
-Currently there are 4 (founding/board) members: Jason, Catalin, Etienne and Hamish
+Currently FikaWorks has ~20 members.
 
-Our broader community consist of all the people present on Slack (~40 members).
+Our broader community consist of 100+ members.
 
 ## New community members (slack)
 
